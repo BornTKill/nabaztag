@@ -5,6 +5,7 @@ description: "Our own clean server for the original Nabaztag/tag (Violet protoco
 url: "https://github.com/ClaraVnk/nabaztag/tree/main/nabaztag-violet"
 arch:
   - amd64
+  - aarch64
 init: false
 startup: services
 boot: auto
